@@ -2,3 +2,4 @@ mtcars
 summary(mtcars)
 mean(mtcars)
 str(mtcars)
+hist(mtcars)
